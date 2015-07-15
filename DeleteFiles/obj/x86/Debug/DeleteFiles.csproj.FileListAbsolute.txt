@@ -1,0 +1,7 @@
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\bin\Debug\DeleteFiles.exe
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\bin\Debug\DeleteFiles.pdb
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\obj\x86\Debug\文件批量删除工具.MainForm.resources
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\obj\x86\Debug\DeleteFiles.Properties.Resources.resources
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\obj\x86\Debug\DeleteFiles.csproj.GenerateResource.Cache
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+C:\E\Develop\C#\C#2010\DeleteFiles\DeleteFiles1.3\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb
